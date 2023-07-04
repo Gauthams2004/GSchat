@@ -1,0 +1,4 @@
+Instructions:
+
+1) Download / copy paste both folders. Folder "fe" contains all the files required for the front-end. "BE" contains all the files required for the back-end.
+2) Open a terminal. Once you have navigated to the "src" folder within "fe", run the "npm start" command.
