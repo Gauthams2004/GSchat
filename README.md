@@ -1,5 +1,5 @@
 # GSchat
-A real Time Chat Application that can be used to communicate with one or more individuals simultaneously. To properly implement the application, follow the instructions in the "INSTRUCTIONS" file of the repository.
+A real Time Chat Application that can be used to communicate with one or more individuals simultaneously.
 # How to use
  Anyone looking to implement this application can do so in two ways
  1) Go to my Replit Profile: @Gauthams2004, open the 2 repls, titled "FrontEnd" and "server" click.
